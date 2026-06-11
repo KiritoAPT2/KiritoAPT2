@@ -4,6 +4,14 @@
 
 ---
 
+## 🌐 Redes
+
+[![Telegram](https://img.shields.io/badge/@KiritoAPT2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/KiritoAPT2)
+[![GitHub](https://img.shields.io/badge/KiritoAPT2-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/KiritoAPT2)
+[![Email](https://img.shields.io/badge/kuromusicoficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kuromusicoficial@gmail.com)
+
+---
+
 ## 🚀 Proyectos
 
 ### 🌐 Web
@@ -14,8 +22,8 @@
 🔒 **Bots Blockchain** — Telegram bots monitoreo USDT/USDC en BSC *(Privado)*
 
 ### 📱 Apps
-🎵 **[KuroMusic](https://kuro-music.netlify.app/)** — Cliente Android Material You, sin anuncios, letras en vivo  
-📖 **[BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)** — App estudio bíblico con diccionario Strong
+🎵 **[KuroMusic](https://kuro-music.netlify.app/)** — Cliente Android Material You  
+📖 **[BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)** — App estudio bíblico
 
 ---
 

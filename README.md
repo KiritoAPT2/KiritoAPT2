@@ -12,9 +12,6 @@ Cliente de música avanzado para Android — Material You, sin anuncios, letras 
 ### 📖 [BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)
 App de estudio bíblico con diccionario Strong y recursos cristianos.
 
-### 🤖 Bots Blockchain 🔒
-Telegram Bots en Cloudflare Workers para monitoreo de transacciones USDT, USDC y más en BSC. *(Privado)*
-
 ### 🌐 Páginas Web
 
 - **₿ [Animax](https://animax3d.netlify.app/)** — Comunidad crypto & DeFi, monitoreo LP
@@ -38,7 +35,6 @@ Telegram Bots en Cloudflare Workers para monitoreo de transacciones USDT, USDC y
 
 **Backend / DB / Cloud**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=fff)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=fff)
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=000)
 

@@ -17,8 +17,7 @@ Telegram Bots en Cloudflare Workers para monitoreo de transacciones USDT, USDC y
 
 ### 🌐 Páginas Web
 
-- **₿ [Animax](https://animax.netlify.app/)** — Comunidad crypto & DeFi, monitoreo LP
-- **🎨 Animax3D** 🔒 — Otra versión de la página Animax *(Privado)*
+- **₿ [Animax](https://animax3d.netlify.app/)** — Comunidad crypto & DeFi, monitoreo LP
 - **🏫 [ThisIsWarSchool Fanpage](https://thisiswarschool-fanpage.vercel.app/)** — Fanpage con Nuxt 3 + Supabase
 
 ---

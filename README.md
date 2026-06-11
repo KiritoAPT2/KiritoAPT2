@@ -6,38 +6,11 @@
 
 ## 🚀 Proyectos
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>🎵 KuroMusic</b><br>
-      <a href="https://kuro-music.netlify.app/">🌐 Web</a> · <a href="https://github.com/KiritoAPT2/KuroMusic">🐙 GitHub</a><br>
-      <sub>Cliente Android Material You, sin anuncios</sub>
-    </td>
-    <td align="center" width="50%">
-      <b>📖 BibliaKoine</b><br>
-      <a href="https://github.com/KiritoAPT2/BibliaKoine">🐙 GitHub</a><br>
-      <sub>App estudio bíblico con diccionario Strong</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>₿ Animax</b><br>
-      <a href="https://animax3d.netlify.app/">🌐 Web</a><br>
-      <sub>Comunidad crypto & DeFi, monitoreo LP</sub>
-    </td>
-    <td align="center" width="50%">
-      <b>🏫 ThisIsWarSchool</b><br>
-      <a href="https://thisiswarschool-fanpage.vercel.app/">🌐 Web</a><br>
-      <sub>Fanpage con Nuxt 3 + Supabase</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" colspan="2">
-      <b>🤖 Bots Blockchain 🔒</b><br>
-      <sub>Telegram Bots para monitoreo USDT, USDC y más en BSC. <i>(Privado)</i></sub>
-    </td>
-  </tr>
-</table>
+🎵 **[KuroMusic](https://kuro-music.netlify.app/)** — Cliente Android Material You, sin anuncios, letras en vivo  
+📖 **[BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)** — App estudio bíblico con diccionario Strong  
+₿ **[Animax](https://animax3d.netlify.app/)** — Comunidad crypto & DeFi, monitoreo LP  
+🏫 **[ThisIsWarSchool](https://thisiswarschool-fanpage.vercel.app/)** — Fanpage con Nuxt 3 + Supabase  
+🤖 **Bots Blockchain 🔒** — Telegram bots monitoreo USDT/USDC en BSC *(Privado)*
 
 ---
 

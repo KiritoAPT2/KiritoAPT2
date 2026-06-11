@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=KiritoAPT2&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Desarrollador%20Android%20%7C%20Web%20%7C%20Crypto&descSize=18&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:7B1FA2&height=200&section=header&text=KiritoAPT2&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Desarrollador%20Android%20%7C%20Web%20%7C%20Crypto&descSize=18&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=c0294a&center=true&vCenter=true&width=600&lines=Desarrollador+Android+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose+%7C+Python;Creador+de+KuroMusic+%F0%9F%8E%B5;Bots+en+Cloudflare+Workers+%E2%98%81%EF%B8%8F;Nuxt+%7C+Vue+%7C+GSAP+%7C+Supabase;Apasionado+por+la+m%C3%BAsica+y+el+c%C3%B3digo)](https://git.io/typing-svg)
 
@@ -61,4 +61,4 @@ Telegram Bots para monitoreo de transacciones USDT, USDC y más en BSC. *(Privad
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7B1FA2,100:0a0a0f&height=100&section=footer)

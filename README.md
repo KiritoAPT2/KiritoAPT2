@@ -6,7 +6,7 @@
 
 ## 🚀 Proyectos
 
-### 🎵 [KuroMusic](https://github.com/KiritoAPT2/KuroMusic)
+### 🎵 [KuroMusic](https://kuro-music.netlify.app/)
 Cliente de música avanzado para Android — Material You, sin anuncios, letras en tiempo real.
 
 ### 📖 [BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)

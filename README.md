@@ -12,14 +12,14 @@ Cliente de música avanzado para Android — Material You, sin anuncios, letras 
 ### 📖 [BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)
 App de estudio bíblico con diccionario Strong y recursos cristianos.
 
-### ₿ [Animax](https://animax.netlify.app/)
-Comunidad crypto & DeFi — Análisis, monitoreo LP y educación financiera.
-
-### 🏫 [ThisIsWarSchool Fanpage](https://thisiswarschool-fanpage.vercel.app/)
-Fanpage con Nuxt 3, Supabase y TailwindCSS.
-
 ### 🤖 Bots Blockchain 🔒
 Telegram Bots en Cloudflare Workers para monitoreo de transacciones USDT, USDC y más en BSC. *(Privado)*
+
+### 🌐 Páginas Web
+
+- **₿ [Animax](https://animax.netlify.app/)** — Comunidad crypto & DeFi, monitoreo LP
+- **🎨 Animax3D** 🔒 — Otra versión de la página Animax *(Privado)*
+- **🏫 [ThisIsWarSchool Fanpage](https://thisiswarschool-fanpage.vercel.app/)** — Fanpage con Nuxt 3 + Supabase
 
 ---
 

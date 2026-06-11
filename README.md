@@ -18,8 +18,8 @@ Comunidad crypto & DeFi — Análisis, monitoreo LP y educación financiera.
 ### 🏫 [ThisIsWarSchool Fanpage](https://thisiswarschool-fanpage.vercel.app/)
 Fanpage con Nuxt 3, Supabase y TailwindCSS.
 
-### 🤖 Neyro Bot 🔒
-Bot de Telegram en Cloudflare Workers que monitorea transacciones USDT en BSC. *(Privado)*
+### 🤖 Bots Blockchain 🔒
+Telegram Bots en Cloudflare Workers para monitoreo de transacciones USDT, USDC y más en BSC. *(Privado)*
 
 ---
 

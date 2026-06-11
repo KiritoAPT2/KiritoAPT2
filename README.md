@@ -6,9 +6,25 @@
 
 ## 🌐 Redes
 
-[![Telegram](https://img.shields.io/badge/@KiritoAPT2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/KiritoAPT2)
-[![GitHub](https://img.shields.io/badge/KiritoAPT2-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/KiritoAPT2)
-[![Email](https://img.shields.io/badge/kuromusicoficial@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kuromusicoficial@gmail.com)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://t.me/KiritoAPT2"><img src="https://img.icons8.com/fluency/96/telegram.png" width="48"></a><br>
+      <b>Telegram</b><br>
+      @KiritoAPT2
+    </td>
+    <td align="center">
+      <a href="https://github.com/KiritoAPT2"><img src="https://img.icons8.com/fluency/96/github.png" width="48"></a><br>
+      <b>GitHub</b><br>
+      KiritoAPT2
+    </td>
+    <td align="center">
+      <a href="mailto:kuromusicoficial@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail.png" width="48"></a><br>
+      <b>Email</b><br>
+      kuromusicoficial@gmail.com
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:7B1FA2&height=200&section=header&text=KiritoAPT2&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Desarrollador%20Android%20%7C%20Web%20%7C%20Crypto&descSize=18&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:7B1FA2&height=200&section=header&text=KiritoAPT2&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Creador%20de%20KuroMusic%20%7C%20Kotlin%20%7C%20Python%20%7C%20Nuxt&descSize=18&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Desarrollador+Android+%F0%9F%93%B1;Kotlin+%7C+Jetpack+Compose+%7C+Python;Creador+de+KuroMusic+%F0%9F%8E%B5;Bots+en+Cloudflare+Workers+%E2%98%81%EF%B8%8F;Nuxt+%7C+Vue+%7C+GSAP+%7C+Supabase;Apasionado+por+la+m%C3%BAsica+y+el+c%C3%B3digo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Creador+de+KuroMusic+%F0%9F%8E%B5;Kotlin+%7C+Python+%7C+Nuxt+%7C+Vue;Apasionado+por+la+m%C3%BAsica+y+el+c%C3%B3digo+abierto;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
 
 ---
 
@@ -33,15 +33,36 @@
 ## 🚀 Proyectos
 
 ### 🌐 Web
-₿ **[Animax](https://animax3d.netlify.app/)** — Comunidad crypto & DeFi, monitoreo LP  
-🏫 **[ThisIsWarSchool](https://thisiswarschool-fanpage.vercel.app/)** — Fanpage con Nuxt 3 + Supabase  
+
+#### ₿ [Animax](https://animax3d.netlify.app/)
+Comunidad crypto & DeFi — Análisis, monitoreo LP y educación financiera.
+
+[![Stars](https://img.shields.io/github/stars/KiritoAPT2/KuroMusic?style=flat-square&color=9C27B0)]()
+[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=fff)]()
+
+#### 🏫 [ThisIsWarSchool Fanpage](https://thisiswarschool-fanpage.vercel.app/)
+Fanpage con Nuxt 3, Supabase y TailwindCSS.
+
+[![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)]()
+[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=fff)]()
 
 ### 🤖 Bots
-🔒 **Bots Blockchain** — Telegram bots monitoreo USDT/USDC en BSC *(Privado)*
+
+🔒 **Bots Blockchain** — Telegram bots para monitoreo de transacciones USDT, USDC y más en BSC. *(Privado)*
 
 ### 📱 Apps
-🎵 **[KuroMusic](https://kuro-music.netlify.app/)** — Cliente Android Material You  
-📖 **[BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)** — App estudio bíblico
+
+#### 🎵 [KuroMusic](https://kuro-music.netlify.app/)
+Cliente Android Material You, sin anuncios, letras en vivo, descargas offline.
+
+[![Stars](https://img.shields.io/github/stars/KiritoAPT2/KuroMusic?style=flat-square&color=9C27B0)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)]()
+
+#### 📖 [BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)
+App de estudio bíblico con diccionario Strong.
+
+[![Stars](https://img.shields.io/github/stars/KiritoAPT2/BibliaKoine?style=flat-square&color=9C27B0)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)]()
 
 ---
 

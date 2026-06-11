@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,100:7B1FA2&height=200&section=header&text=KiritoAPT2&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Creador%20de%20KuroMusic%20%7C%20Kotlin%20%7C%20Python%20%7C%20Nuxt&descSize=18&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=Creador+de+KuroMusic+%F0%9F%8E%B5;Kotlin+%7C+Python+%7C+Nuxt+%7C+Vue;Apasionado+por+la+m%C3%BAsica+y+el+c%C3%B3digo+abierto;Siempre+aprendiendo+algo+nuevo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=9C27B0&center=true&vCenter=true&width=600&lines=%F0%9F%8E%B5+Creador+de+KuroMusic;%F0%9F%92%BB+Kotlin+%C2%B7+Python+%C2%B7+Nuxt+%C2%B7+Vue;Apasionado+por+la+m%C3%BAsica+y+el+c%C3%B3digo+abierto)](https://git.io/typing-svg)
 
 ---
 
@@ -35,16 +35,19 @@
 ### 🌐 Web
 
 #### ₿ [Animax](https://animax3d.netlify.app/)
-Comunidad crypto & DeFi — Análisis, monitoreo LP y educación financiera.
+**Comunidad crypto & DeFi, monitoreo LP**
+- Análisis on-chain y tutoriales DeFi
+- Dashboard de posiciones Uniswap V3
+- Contenido en Rumble, YouTube y TikTok
 
 [![Stars](https://img.shields.io/github/stars/KiritoAPT2/KuroMusic?style=flat-square&color=9C27B0)]()
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=fff)]()
 
 #### 🏫 [ThisIsWarSchool Fanpage](https://thisiswarschool-fanpage.vercel.app/)
-Fanpage con Nuxt 3, Supabase y TailwindCSS.
+**Fanpage con Nuxt 3, Supabase y TailwindCSS**
+- Nuxt 3 + Pinia + Supabase
+- Diseño responsive con TailwindCSS
 
 [![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff)]()
-[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=fff)]()
 
 ### 🤖 Bots
 
@@ -53,13 +56,18 @@ Fanpage con Nuxt 3, Supabase y TailwindCSS.
 ### 📱 Apps
 
 #### 🎵 [KuroMusic](https://kuro-music.netlify.app/)
-Cliente Android Material You, sin anuncios, letras en vivo, descargas offline.
+**Cliente Android Material You, sin anuncios, letras en vivo**
+- Material Design 3 negro/morado
+- Reproducción en segundo plano y Android Auto
+- Descargas offline y letras sincronizadas
 
 [![Stars](https://img.shields.io/github/stars/KiritoAPT2/KuroMusic?style=flat-square&color=9C27B0)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)]()
 
 #### 📖 [BibliaKoine](https://github.com/KiritoAPT2/BibliaKoine)
-App de estudio bíblico con diccionario Strong.
+**App de estudio bíblico con diccionario Strong**
+- Diccionario Strong integrado
+- Recursos cristianos en Android
 
 [![Stars](https://img.shields.io/github/stars/KiritoAPT2/BibliaKoine?style=flat-square&color=9C27B0)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=fff)]()
